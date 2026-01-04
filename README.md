@@ -1,4 +1,4 @@
-# Hand-Tracked Servo Arm Control
+# Hand-Tracked Servo Arm
 
 ![Hand Tracking Demo](/assets/hand.gif)
 
