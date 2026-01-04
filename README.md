@@ -1,13 +1,6 @@
 # Hand-Tracked Servo Arm Control
 
-<video
-  src="./IMG_6249.mp4"
-  autoplay
-  loop
-  muted
-  playsinline
->
-</video>
+![Hand Tracking Demo](assets/hand.gif)
 
 This project connects real-time hand tracking on a computer to a physical servo-driven arm using a wired Arduino connection.
 
