@@ -2,6 +2,8 @@
 
 ![Hand Tracking Demo](/assets/hand.gif)
 
+[Watch the demo video](./assets/IMG_6249.mp4)
+
 This project connects real-time hand tracking on a computer to a physical servo-driven arm using a wired Arduino connection.
 
 A Python process captures video from a webcam, detects a single hand, derives finger bend angles, and streams those values over serial. An Arduino sketch receives the data and drives five servos in near real time.
